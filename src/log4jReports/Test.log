@@ -1,0 +1,461 @@
+[INFO ] 2021-08-02 11:49:13.910 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 11:49:14.450 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 11:49:18.080 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 11:50:25.482 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 11:50:37.689 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 11:50:39.847 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 11:50:42.008 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 11:51:02.920 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 11:51:03.475 [Test worker] LogClass - login_to_application_using_dataProvider_data :take success screenshot in ITestlistner method
+[INFO ] 2021-08-02 11:51:03.829 [Test worker] LogClass - clicking on login
+[ERROR] 2021-08-02 11:51:04.093 [Test worker] LogClass - login_to_application_using_dataProvider_data :take failed screenshot in Ilistner method
+[INFO ] 2021-08-02 11:51:04.293 [Test worker] LogClass - clicking on login
+[ERROR] 2021-08-02 11:51:04.583 [Test worker] LogClass - login_to_application_using_dataProvider_data :take failed screenshot in Ilistner method
+[INFO ] 2021-08-02 11:51:04.790 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 11:52:14.250 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 11:52:14.826 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 11:52:16.076 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 11:52:55.316 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 11:53:02.674 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 11:53:04.862 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 11:53:07.120 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 11:53:14.964 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 11:53:15.251 [Test worker] LogClass - login_to_application_using_dataProvider_data :take success screenshot in ITestlistner method
+[INFO ] 2021-08-02 11:53:15.527 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 11:54:16.488 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 11:54:17.007 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 11:54:18.321 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 11:55:14.127 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 11:55:26.142 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 11:55:28.338 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 11:55:30.534 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 11:55:37.294 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 11:55:37.612 [Test worker] LogClass - login_to_application_using_dataProvider_data :take success screenshot in ITestlistner method
+[INFO ] 2021-08-02 11:55:37.907 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 12:03:51.339 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 12:03:54.970 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 12:03:56.187 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 12:05:46.187 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 12:05:46.893 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 12:05:48.321 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 12:06:53.157 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 12:07:35.061 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 12:07:37.223 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 12:07:39.407 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 12:10:37.903 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 12:10:37.989 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 12:10:49.851 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 12:10:50.650 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 12:10:52.137 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 12:14:40.135 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 12:14:40.722 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 12:14:41.894 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 12:15:33.854 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 12:15:50.973 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 12:15:53.167 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 12:15:55.340 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 12:16:14.792 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 12:16:15.954 [Test worker] LogClass - login_to_application_using_dataProvider_data :take success screenshot in interface listener method
+[INFO ] 2021-08-02 12:16:16.275 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 12:18:53.134 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 12:18:53.672 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 12:18:54.805 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 12:19:29.751 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 12:19:35.585 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 12:19:37.749 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 12:19:39.977 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 12:19:49.439 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 12:19:49.890 [Test worker] LogClass - login_to_application_using_dataProvider_data :take success screenshot in interface listener method
+[INFO ] 2021-08-02 12:19:50.194 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 12:20:39.298 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 12:20:39.849 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 12:20:41.023 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 12:21:23.783 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 12:21:26.535 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 12:21:28.754 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 12:21:31.010 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 12:21:41.796 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 12:21:42.348 [Test worker] LogClass - login_to_application_using_dataProvider_data :take success screenshot in interface listener method
+[INFO ] 2021-08-02 12:21:42.728 [Test worker] LogClass - clicking on login
+[ERROR] 2021-08-02 12:21:43.064 [Test worker] LogClass - login_to_application_using_dataProvider_data :take failed screenshot in interface listener method
+[INFO ] 2021-08-02 12:21:43.276 [Test worker] LogClass - clicking on login
+[ERROR] 2021-08-02 12:21:43.575 [Test worker] LogClass - login_to_application_using_dataProvider_data :take failed screenshot in interface listener method
+[INFO ] 2021-08-02 12:21:43.800 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 12:30:10.168 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 12:30:10.669 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 12:30:12.501 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 12:31:06.049 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 12:31:13.735 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 12:31:15.936 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 12:31:18.115 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 12:31:34.209 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 12:31:38.219 [Test worker] LogClass - Mouse hovering on my account menu
+[INFO ] 2021-08-02 12:31:38.527 [Test worker] LogClass - mouse hovering on logout sub menu
+[INFO ] 2021-08-02 12:31:39.001 [Test worker] LogClass - Clicking on sub menu logout
+[INFO ] 2021-08-02 12:31:44.101 [Test worker] LogClass - login_to_application_using_dataProvider_data :take success screenshot in interface listener method
+[INFO ] 2021-08-02 12:31:48.426 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 12:31:52.376 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 12:31:54.524 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 12:31:56.840 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 12:32:03.263 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 12:32:07.266 [Test worker] LogClass - Mouse hovering on my account menu
+[INFO ] 2021-08-02 12:32:07.567 [Test worker] LogClass - mouse hovering on logout sub menu
+[INFO ] 2021-08-02 12:32:07.915 [Test worker] LogClass - Clicking on sub menu logout
+[INFO ] 2021-08-02 12:32:16.057 [Test worker] LogClass - login_to_application_using_dataProvider_data :take success screenshot in interface listener method
+[INFO ] 2021-08-02 12:32:20.279 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 12:32:25.026 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 12:32:27.193 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 12:32:29.378 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 12:32:37.125 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 12:32:41.129 [Test worker] LogClass - Mouse hovering on my account menu
+[INFO ] 2021-08-02 12:32:41.430 [Test worker] LogClass - mouse hovering on logout sub menu
+[ERROR] 2021-08-02 12:32:41.859 [Test worker] LogClass - login_to_application_using_dataProvider_data :take failed screenshot in interface listener method
+[INFO ] 2021-08-02 12:32:42.081 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 12:36:11.128 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 12:36:11.670 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 12:36:12.846 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 12:36:52.728 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 12:37:04.015 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 12:37:06.185 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 12:37:08.373 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 12:37:18.725 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 12:37:22.736 [Test worker] LogClass - Mouse hovering on my account menu
+[INFO ] 2021-08-02 12:37:23.043 [Test worker] LogClass - mouse hovering on logout sub menu
+[INFO ] 2021-08-02 12:37:23.423 [Test worker] LogClass - Clicking on sub menu logout
+[INFO ] 2021-08-02 12:37:41.906 [Test worker] LogClass - login_to_application_using_dataProvider_data :take success screenshot in interface listener method
+[INFO ] 2021-08-02 12:37:46.221 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 12:37:52.420 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 12:37:54.539 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 12:37:56.749 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 12:38:04.529 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 12:38:08.532 [Test worker] LogClass - Mouse hovering on my account menu
+[INFO ] 2021-08-02 12:38:08.833 [Test worker] LogClass - mouse hovering on logout sub menu
+[INFO ] 2021-08-02 12:38:09.182 [Test worker] LogClass - Clicking on sub menu logout
+[INFO ] 2021-08-02 12:38:14.931 [Test worker] LogClass - login_to_application_using_dataProvider_data :take success screenshot in interface listener method
+[INFO ] 2021-08-02 12:38:19.239 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 12:38:23.008 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 12:38:25.162 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 12:38:27.292 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 12:38:37.657 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 12:38:41.660 [Test worker] LogClass - Mouse hovering on my account menu
+[INFO ] 2021-08-02 12:38:41.961 [Test worker] LogClass - mouse hovering on logout sub menu
+[ERROR] 2021-08-02 12:38:42.322 [Test worker] LogClass - login_to_application_using_dataProvider_data :take failed screenshot in interface listener method
+[INFO ] 2021-08-02 12:38:42.594 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 12:58:55.430 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 12:58:55.900 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 12:58:57.291 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 12:59:30.826 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 12:59:39.897 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 12:59:42.010 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 12:59:44.135 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 12:59:51.006 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 12:59:51.825 [Test worker] LogClass - login_to_application :take success screenshot in interface listener method
+[INFO ] 2021-08-02 12:59:52.106 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 13:00:24.357 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 13:00:24.836 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 13:00:25.840 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 13:00:51.463 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 13:00:58.636 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 13:01:00.746 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 13:01:02.868 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 13:01:10.832 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 13:01:10.860 [Test worker] LogClass - click on home icon
+[INFO ] 2021-08-02 13:01:21.507 [Test worker] LogClass - click on category
+[INFO ] 2021-08-02 13:01:27.352 [Test worker] LogClass - click on books
+[INFO ] 2021-08-02 13:01:40.950 [Test worker] LogClass - click on add to wishlist
+[INFO ] 2021-08-02 13:01:49.840 [Test worker] LogClass - click on card
+[INFO ] 2021-08-02 13:01:52.963 [Test worker] LogClass - click on checkbox button
+[INFO ] 2021-08-02 13:01:56.846 [Test worker] LogClass - add_to_wishlist_test :take success screenshot in interface listener method
+[INFO ] 2021-08-02 13:01:57.151 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 13:09:06.416 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 13:09:14.775 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 13:09:15.936 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 13:09:37.989 [Test worker] LogClass - click on search bar
+[INFO ] 2021-08-02 13:09:39.096 [Test worker] LogClass - search books
+[INFO ] 2021-08-02 13:09:41.226 [Test worker] LogClass - click on search button
+[INFO ] 2021-08-02 13:09:59.069 [Test worker] LogClass - click search list
+[INFO ] 2021-08-02 13:10:03.180 [Test worker] LogClass - click on add to wishlist
+[INFO ] 2021-08-02 13:10:15.595 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 13:10:19.611 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 13:10:21.807 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 13:10:23.985 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 13:10:37.338 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 13:10:38.268 [Test worker] LogClass - search_book_before_login_test :take success screenshot in interface listener method
+[INFO ] 2021-08-02 13:10:38.601 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 13:51:09.974 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 13:51:10.456 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 13:51:11.627 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 13:51:43.795 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 13:51:49.221 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 13:51:51.339 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 13:51:53.457 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 13:52:00.811 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 13:52:01.739 [Test worker] LogClass - login_to_application_get_login_credential_from_object_repo :take success screenshot in interface listener method
+[INFO ] 2021-08-02 13:52:02.016 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 13:57:17.940 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 13:57:18.411 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 13:57:19.653 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 13:57:53.332 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 13:57:57.773 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 13:57:59.884 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 13:58:02.012 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 13:58:08.751 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 13:58:09.522 [Test worker] LogClass - login_to_application_get_login_credential_from_object_repo :take success screenshot in interface listener method
+[INFO ] 2021-08-02 13:58:09.804 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 14:11:06.978 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 14:11:11.189 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 14:11:13.672 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 14:12:34.415 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 14:13:19.206 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 14:13:21.499 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 14:13:23.625 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 14:13:30.707 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 14:13:31.685 [Test worker] LogClass - login_to_application_get_login_credential_from_object_repo :take success screenshot in interface listener method
+[INFO ] 2021-08-02 14:13:42.657 [Test worker] LogClass - send report to gmail
+[INFO ] 2021-08-02 14:13:42.658 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 15:20:39.131 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 15:20:41.615 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 15:20:50.090 [Test worker] LogClass - Internet is connected
+[INFO ] 2021-08-02 15:20:50.091 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 15:21:09.316 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 15:21:13.220 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 15:21:15.360 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 15:21:17.464 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 15:21:22.871 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 15:21:22.889 [Test worker] LogClass - click on search bar
+[INFO ] 2021-08-02 15:21:23.980 [Test worker] LogClass - search books
+[INFO ] 2021-08-02 15:21:26.052 [Test worker] LogClass - click on search button
+[INFO ] 2021-08-02 15:21:39.495 [Test worker] LogClass - click search list
+[INFO ] 2021-08-02 15:21:43.570 [Test worker] LogClass - click on add to wishlist
+[INFO ] 2021-08-02 15:21:52.514 [Test worker] LogClass - search_book_test :take success screenshot in interface listener method
+[INFO ] 2021-08-02 15:22:05.376 [Test worker] LogClass - send report to gmail
+[INFO ] 2021-08-02 15:22:05.378 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 17:29:08.073 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 17:29:08.904 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 17:29:12.885 [Test worker] LogClass - Internet is connected
+[INFO ] 2021-08-02 17:29:12.886 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 17:29:37.265 [Test worker] LogClass - click on search bar
+[INFO ] 2021-08-02 17:29:38.405 [Test worker] LogClass - entering book name
+[INFO ] 2021-08-02 17:29:40.469 [Test worker] LogClass - click on search button
+[INFO ] 2021-08-02 17:29:52.588 [Test worker] LogClass - click on buy button
+[INFO ] 2021-08-02 17:29:59.842 [Test worker] LogClass - clearing the quantity size
+[INFO ] 2021-08-02 17:29:59.914 [Test worker] LogClass - updating quantity size
+[INFO ] 2021-08-02 17:30:02.977 [Test worker] LogClass - click on place order
+[ERROR] 2021-08-02 17:30:18.136 [Test worker] LogClass - buy_book_test :take failed screenshot in interface listener method
+[INFO ] 2021-08-02 17:30:36.893 [Test worker] LogClass - send report to gmail
+[INFO ] 2021-08-02 17:30:36.893 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 17:31:27.648 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 17:31:28.448 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 17:31:31.687 [Test worker] LogClass - Internet is connected
+[INFO ] 2021-08-02 17:31:31.688 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 17:31:49.741 [Test worker] LogClass - click on search bar
+[INFO ] 2021-08-02 17:31:50.850 [Test worker] LogClass - entering book name
+[INFO ] 2021-08-02 17:31:53.023 [Test worker] LogClass - click on search button
+[INFO ] 2021-08-02 17:32:05.061 [Test worker] LogClass - click on buy button
+[INFO ] 2021-08-02 17:32:12.240 [Test worker] LogClass - clearing the quantity size
+[ERROR] 2021-08-02 17:32:13.584 [Test worker] LogClass - buy_book_test :take failed screenshot in interface listener method
+[INFO ] 2021-08-02 17:33:12.063 [Test worker] LogClass - send report to gmail
+[INFO ] 2021-08-02 17:33:12.063 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 17:34:01.922 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 17:34:03.950 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 17:34:06.912 [Test worker] LogClass - Internet is connected
+[INFO ] 2021-08-02 17:34:06.913 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 17:34:53.622 [Test worker] LogClass - click on search bar
+[INFO ] 2021-08-02 17:34:54.764 [Test worker] LogClass - entering book name
+[INFO ] 2021-08-02 17:34:56.824 [Test worker] LogClass - click on search button
+[INFO ] 2021-08-02 17:35:41.112 [Test worker] LogClass - click on buy button
+[INFO ] 2021-08-02 17:35:48.292 [Test worker] LogClass - clearing the quantity size
+[INFO ] 2021-08-02 17:35:48.367 [Test worker] LogClass - updating quantity size
+[INFO ] 2021-08-02 17:35:51.429 [Test worker] LogClass - click on place order
+[ERROR] 2021-08-02 17:35:56.776 [Test worker] LogClass - buy_book_after_login :take failed screenshot in interface listener method
+[INFO ] 2021-08-02 17:36:25.039 [Test worker] LogClass - send report to gmail
+[INFO ] 2021-08-02 17:36:25.043 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 17:37:04.328 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 17:37:05.090 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 17:37:07.483 [Test worker] LogClass - Internet is connected
+[INFO ] 2021-08-02 17:37:07.484 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 17:37:34.392 [Test worker] LogClass - click on search bar
+[INFO ] 2021-08-02 17:37:35.543 [Test worker] LogClass - entering book name
+[INFO ] 2021-08-02 17:37:37.672 [Test worker] LogClass - click on search button
+[INFO ] 2021-08-02 17:37:53.368 [Test worker] LogClass - click on buy button
+[INFO ] 2021-08-02 17:38:00.567 [Test worker] LogClass - clearing the quantity size
+[INFO ] 2021-08-02 17:38:00.641 [Test worker] LogClass - updating quantity size
+[INFO ] 2021-08-02 17:38:03.703 [Test worker] LogClass - click on place order
+[ERROR] 2021-08-02 17:38:23.088 [Test worker] LogClass - buy_book_after_login :take failed screenshot in interface listener method
+[INFO ] 2021-08-02 17:38:34.205 [Test worker] LogClass - send report to gmail
+[INFO ] 2021-08-02 17:38:34.207 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 17:39:20.370 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 17:39:21.199 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 17:39:24.670 [Test worker] LogClass - Internet is connected
+[INFO ] 2021-08-02 17:39:24.671 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 17:39:44.952 [Test worker] LogClass - click on search bar
+[INFO ] 2021-08-02 17:39:46.065 [Test worker] LogClass - entering book name
+[INFO ] 2021-08-02 17:39:48.172 [Test worker] LogClass - click on search button
+[INFO ] 2021-08-02 17:40:08.950 [Test worker] LogClass - click on buy button
+[INFO ] 2021-08-02 17:40:16.193 [Test worker] LogClass - clearing the quantity size
+[INFO ] 2021-08-02 17:40:16.271 [Test worker] LogClass - updating quantity size
+[INFO ] 2021-08-02 17:40:19.336 [Test worker] LogClass - click on place order
+[ERROR] 2021-08-02 17:40:35.463 [Test worker] LogClass - buy_book_after_login :take failed screenshot in interface listener method
+[INFO ] 2021-08-02 17:40:45.927 [Test worker] LogClass - send report to gmail
+[INFO ] 2021-08-02 17:40:45.927 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 17:51:32.767 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 17:51:33.403 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 17:51:49.528 [Test worker] LogClass - Internet is connected
+[INFO ] 2021-08-02 17:51:49.529 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 17:52:32.305 [Test worker] LogClass - click on search bar
+[INFO ] 2021-08-02 17:52:33.405 [Test worker] LogClass - entering book name
+[INFO ] 2021-08-02 17:52:35.506 [Test worker] LogClass - click on search button
+[INFO ] 2021-08-02 17:52:58.919 [Test worker] LogClass - click on buy button
+[INFO ] 2021-08-02 17:53:06.078 [Test worker] LogClass - clearing the quantity size
+[INFO ] 2021-08-02 17:53:06.149 [Test worker] LogClass - updating quantity size
+[INFO ] 2021-08-02 17:53:09.206 [Test worker] LogClass - click on place order
+[ERROR] 2021-08-02 17:53:22.789 [Test worker] LogClass - buy_book_after_login :take failed screenshot in interface listener method
+[INFO ] 2021-08-02 17:53:39.365 [Test worker] LogClass - send report to gmail
+[INFO ] 2021-08-02 17:53:39.366 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 18:03:41.669 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 18:03:43.180 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 18:03:46.740 [Test worker] LogClass - Internet is connected
+[INFO ] 2021-08-02 18:03:46.740 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 18:04:21.907 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 18:04:27.372 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 18:04:29.557 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 18:04:31.706 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 18:04:43.499 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 18:04:44.575 [Test worker] LogClass - login_to_application :take success screenshot in interface listener method
+[INFO ] 2021-08-02 18:05:41.805 [Test worker] LogClass - send report to gmail
+[INFO ] 2021-08-02 18:05:41.805 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 18:16:41.581 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 18:16:42.343 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 18:16:44.998 [Test worker] LogClass - Internet is connected
+[INFO ] 2021-08-02 18:16:44.999 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 18:17:07.231 [Test worker] LogClass - click on search bar
+[INFO ] 2021-08-02 18:17:08.375 [Test worker] LogClass - entering book name
+[INFO ] 2021-08-02 18:17:10.501 [Test worker] LogClass - click on search button
+[INFO ] 2021-08-02 18:17:23.461 [Test worker] LogClass - click on buy button
+[INFO ] 2021-08-02 18:17:30.715 [Test worker] LogClass - clearing the quantity size
+[INFO ] 2021-08-02 18:17:30.869 [Test worker] LogClass - updating quantity size
+[INFO ] 2021-08-02 18:17:33.944 [Test worker] LogClass - click on place order
+[INFO ] 2021-08-02 18:17:36.642 [Test worker] LogClass - sending username
+[INFO ] 2021-08-02 18:17:39.962 [Test worker] LogClass - sending password
+[INFO ] 2021-08-02 18:17:41.145 [Test worker] LogClass - clicking on login button
+[INFO ] 2021-08-02 18:17:43.391 [Test worker] LogClass - sending name
+[INFO ] 2021-08-02 18:17:44.553 [Test worker] LogClass - sending addresss
+[INFO ] 2021-08-02 18:17:45.193 [Test worker] LogClass - selecting country option
+[INFO ] 2021-08-02 18:17:45.765 [Test worker] LogClass - selecting state option
+[INFO ] 2021-08-02 18:17:46.355 [Test worker] LogClass - selecting city option
+[INFO ] 2021-08-02 18:17:46.973 [Test worker] LogClass - sending pincode
+[INFO ] 2021-08-02 18:17:47.661 [Test worker] LogClass - sending mobile number
+[INFO ] 2021-08-02 18:17:48.339 [Test worker] LogClass - click on submit button
+[INFO ] 2021-08-02 18:17:58.854 [Test worker] LogClass - click on save and continue button
+[INFO ] 2021-08-02 18:17:59.987 [Test worker] LogClass - click on logout button
+[ERROR] 2021-08-02 18:18:04.067 [Test worker] LogClass - buy_book_after_login :take failed screenshot in interface listener method
+[INFO ] 2021-08-02 18:18:20.176 [Test worker] LogClass - send report to gmail
+[INFO ] 2021-08-02 18:18:20.177 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 18:18:59.307 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 18:19:00.348 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 18:19:04.463 [Test worker] LogClass - Internet is connected
+[INFO ] 2021-08-02 18:19:04.464 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 18:19:36.998 [Test worker] LogClass - click on search bar
+[INFO ] 2021-08-02 18:19:38.122 [Test worker] LogClass - entering book name
+[INFO ] 2021-08-02 18:19:40.231 [Test worker] LogClass - click on search button
+[INFO ] 2021-08-02 18:19:53.093 [Test worker] LogClass - click on buy button
+[INFO ] 2021-08-02 18:20:00.312 [Test worker] LogClass - clearing the quantity size
+[INFO ] 2021-08-02 18:20:00.441 [Test worker] LogClass - updating quantity size
+[INFO ] 2021-08-02 18:20:03.522 [Test worker] LogClass - click on place order
+[INFO ] 2021-08-02 18:20:06.258 [Test worker] LogClass - sending username
+[ERROR] 2021-08-02 18:20:23.474 [Test worker] LogClass - buy_book_after_login :take failed screenshot in interface listener method
+[INFO ] 2021-08-02 18:20:39.058 [Test worker] LogClass - send report to gmail
+[INFO ] 2021-08-02 18:20:39.058 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 18:21:47.098 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 18:21:48.107 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 18:21:51.059 [Test worker] LogClass - Internet is connected
+[INFO ] 2021-08-02 18:21:51.059 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 18:22:24.877 [Test worker] LogClass - click on search bar
+[INFO ] 2021-08-02 18:22:26.038 [Test worker] LogClass - entering book name
+[INFO ] 2021-08-02 18:22:28.121 [Test worker] LogClass - click on search button
+[INFO ] 2021-08-02 18:22:41.206 [Test worker] LogClass - click on buy button
+[INFO ] 2021-08-02 18:22:48.427 [Test worker] LogClass - clearing the quantity size
+[INFO ] 2021-08-02 18:22:48.514 [Test worker] LogClass - updating quantity size
+[INFO ] 2021-08-02 18:22:51.592 [Test worker] LogClass - click on place order
+[INFO ] 2021-08-02 18:22:54.295 [Test worker] LogClass - sending username
+[ERROR] 2021-08-02 18:22:56.424 [Test worker] LogClass - buy_book_after_login :take failed screenshot in interface listener method
+[INFO ] 2021-08-02 18:23:15.563 [Test worker] LogClass - send report to gmail
+[INFO ] 2021-08-02 18:23:15.566 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 18:23:30.481 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 18:23:31.633 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 18:23:34.404 [Test worker] LogClass - Internet is connected
+[INFO ] 2021-08-02 18:23:34.404 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 18:23:56.999 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 18:24:04.493 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 18:24:06.641 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 18:24:08.759 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 18:24:15.363 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 18:24:15.373 [Test worker] LogClass - click on home icon
+[INFO ] 2021-08-02 18:24:18.899 [Test worker] LogClass - click on category
+[INFO ] 2021-08-02 18:24:22.323 [Test worker] LogClass - click on books
+[INFO ] 2021-08-02 18:24:26.293 [Test worker] LogClass - click on add to wishlist
+[INFO ] 2021-08-02 18:24:33.227 [Test worker] LogClass - click on card
+[INFO ] 2021-08-02 18:24:36.367 [Test worker] LogClass - click on checkbox button
+[INFO ] 2021-08-02 18:24:40.737 [Test worker] LogClass - add_to_wishlist_test :take success screenshot in interface listener method
+[INFO ] 2021-08-02 18:24:54.384 [Test worker] LogClass - send report to gmail
+[INFO ] 2021-08-02 18:24:54.385 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 18:30:04.466 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 18:30:05.167 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 18:30:07.539 [Test worker] LogClass - Internet is connected
+[INFO ] 2021-08-02 18:30:07.539 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 18:30:34.562 [Test worker] LogClass - click on search bar
+[INFO ] 2021-08-02 18:30:35.677 [Test worker] LogClass - entering book name
+[INFO ] 2021-08-02 18:30:37.828 [Test worker] LogClass - click on search button
+[INFO ] 2021-08-02 18:30:47.940 [Test worker] LogClass - click on buy button
+[INFO ] 2021-08-02 18:30:55.102 [Test worker] LogClass - clearing the quantity size
+[INFO ] 2021-08-02 18:30:55.176 [Test worker] LogClass - updating quantity size
+[INFO ] 2021-08-02 18:30:58.251 [Test worker] LogClass - click on place order
+[INFO ] 2021-08-02 18:31:02.679 [Test worker] LogClass - sending username
+[INFO ] 2021-08-02 18:31:03.860 [Test worker] LogClass - sending password
+[INFO ] 2021-08-02 18:31:05.044 [Test worker] LogClass - clicking on login button
+[INFO ] 2021-08-02 18:31:06.520 [Test worker] LogClass - sending name
+[INFO ] 2021-08-02 18:31:07.703 [Test worker] LogClass - sending addresss
+[INFO ] 2021-08-02 18:31:08.450 [Test worker] LogClass - selecting country option
+[INFO ] 2021-08-02 18:31:09.055 [Test worker] LogClass - selecting state option
+[INFO ] 2021-08-02 18:31:09.665 [Test worker] LogClass - selecting city option
+[INFO ] 2021-08-02 18:31:10.290 [Test worker] LogClass - sending pincode
+[INFO ] 2021-08-02 18:31:10.949 [Test worker] LogClass - sending mobile number
+[INFO ] 2021-08-02 18:31:11.603 [Test worker] LogClass - click on submit button
+[INFO ] 2021-08-02 18:31:15.825 [Test worker] LogClass - click on save and continue button
+[INFO ] 2021-08-02 18:31:18.171 [Test worker] LogClass - buy_book_after_login :take success screenshot in interface listener method
+[INFO ] 2021-08-02 18:31:30.009 [Test worker] LogClass - send report to gmail
+[INFO ] 2021-08-02 18:31:30.010 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+[INFO ] 2021-08-02 18:48:09.531 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-08-02 18:48:11.479 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-08-02 18:48:13.709 [Test worker] LogClass - Internet is connected
+[INFO ] 2021-08-02 18:48:13.709 [Test worker] LogClass - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 18:48:28.597 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 18:48:32.349 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 18:48:34.722 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 18:48:36.913 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 18:48:41.436 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 18:48:45.451 [Test worker] LogClass - Mouse hovering on my account menu
+[INFO ] 2021-08-02 18:48:45.784 [Test worker] LogClass - mouse hovering on logout sub menu
+[INFO ] 2021-08-02 18:48:46.104 [Test worker] LogClass - Clicking on sub menu logout
+[INFO ] 2021-08-02 18:48:47.399 [Test worker] LogClass - you're logout successfully
+[INFO ] 2021-08-02 18:48:48.603 [Test worker] LogClass - login_to_application_using_dataProvider_data :take success screenshot in interface listener method
+[INFO ] 2021-08-02 18:48:53.141 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 18:48:56.252 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 18:48:58.442 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 18:49:00.600 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 18:49:05.341 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 18:49:09.350 [Test worker] LogClass - Mouse hovering on my account menu
+[INFO ] 2021-08-02 18:49:09.651 [Test worker] LogClass - mouse hovering on logout sub menu
+[INFO ] 2021-08-02 18:49:09.942 [Test worker] LogClass - Clicking on sub menu logout
+[INFO ] 2021-08-02 18:49:11.649 [Test worker] LogClass - you're logout successfully
+[INFO ] 2021-08-02 18:49:12.509 [Test worker] LogClass - login_to_application_using_dataProvider_data :take success screenshot in interface listener method
+[INFO ] 2021-08-02 18:49:16.814 [Test worker] LogClass - clicking on login
+[INFO ] 2021-08-02 18:49:20.950 [Test worker] LogClass - Enter email id
+[INFO ] 2021-08-02 18:49:23.075 [Test worker] LogClass - Enter password
+[INFO ] 2021-08-02 18:49:25.235 [Test worker] LogClass - click on login button
+[INFO ] 2021-08-02 18:49:29.552 [Test worker] LogClass - you're login successfully
+[INFO ] 2021-08-02 18:49:33.560 [Test worker] LogClass - Mouse hovering on my account menu
+[INFO ] 2021-08-02 18:49:33.861 [Test worker] LogClass - mouse hovering on logout sub menu
+[ERROR] 2021-08-02 18:49:34.277 [Test worker] LogClass - login_to_application_using_dataProvider_data :take failed screenshot in interface listener method
+[INFO ] 2021-08-02 18:49:45.756 [Test worker] LogClass - send report to gmail
+[INFO ] 2021-08-02 18:49:45.757 [Test worker] LogClass - ******************************* End Test Cases ****************************************
